@@ -12,12 +12,8 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
-
- <img align="right" alt="GIF" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width="500" height="320" />
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23020709&size=24&lines=Be+curious.+Read+widely.;Try+new+things.;What+people+call+intelligence;just+boils+down+to+curiosity!%7C)](https://git.io/typing-svg)
+ <img align="center" alt="GIF" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width="500" height="320" />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23020709&size=24&lines=Be+curious.+Read+widely.;Try+new+things.;What+people+call+intelligence;just+boils+down+to+curiosity!%7C)](https://git.io/typing-svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://rahulvenugopal.github.io/haveyoumetrahul/&left_color=green&right_color=red)
