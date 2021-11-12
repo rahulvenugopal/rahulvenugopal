@@ -1,8 +1,7 @@
 ### Hey there <img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px">
+<td>I am a graduate student at Centre for Consciousness Studies, NIMHANS, Bengaluru, India</td>
 <table border="0">
 <img align="left" alt="GIF" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width="500" height="320" />
-
-<td>I am a graduate student at Centre for Consciousness Studies, NIMHANS, Bengaluru, India</td>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23020709&size=24&lines=Be+curious.+Read+widely.;Try+new+things.;What+people+call+intelligence;just+boils+down+to+curiosity!%7C)](https://git.io/typing-svg)
 
