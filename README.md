@@ -2,9 +2,9 @@
 
 <p>I'm currently in my 4th year of PhD at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies. </a></strong>My research interests revolve around scientific studies of Consciousness, cognition, neuromodulation, sleep and psychology. I love data stories, visualizations, statistics, computation, complexity and the art of teaching. When I am not thinking about previous line things, I read-travel-scroll through the bird app. I admire teach and STEM. I hate bullies and humans looking down other beings. I support sustainability and environment friendly initiatives. </p>
 
-<img align="right" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" />
+<img align="right" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width = 100px />
 
-
+<p>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -19,4 +19,4 @@
 </a>
 	
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/rahulvenugopal/&left_color=green&right_color=red)
-
+</p>
