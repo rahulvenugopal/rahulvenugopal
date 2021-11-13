@@ -6,19 +6,19 @@
 
 <p>
 <a href="https://scholar.google.com/citations?user=prTMUhkAAAAJ&hl=en&oi=ao">
-  <img align="left" alt="Rahul's Google scholar page" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
+  <img align="left" alt="Rahul's Google scholar page" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
 </a>
 <a href="https://twitter.com/rhlvenugopal">
-  <img align="left" alt="Rahul Venugopal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Rahul Venugopal | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahul-venugopal-100b761b9/">
-  <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahul's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Rahul-Venugopal-4">
-  <img align="left" alt="Rahul's RG" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />
+  <img align="left" alt="Rahul's RG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />
 </a>
 <a href="https://www.quora.com/profile/Rahul-Venugopal">
-  <img align="left" alt="Rahul's Quora" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/1920px-Quora_logo_2015.svg.png" />
+  <img align="left" alt="Rahul's Quora" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/1920px-Quora_logo_2015.svg.png" />
 </a>
 	
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/rahulvenugopal/&left_color=green&right_color=red)
