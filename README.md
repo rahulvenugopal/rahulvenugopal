@@ -4,7 +4,7 @@
 My research interests revolve around scientific studies of Consciousness, cognition, neuromodulation, sleep and psychology.  
 I love data stories, visualizations, statistics, computation, complexity and the art of teaching.  
 When I am not thinking about previous things, I read-travel-scroll through the bird app and ponder about life in general. 
-I strongly support open source and communities which helps living and non-living entities. I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
+I strongly support open source and communities which help living + non-living entities irrespective of human biases and prejudices. I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
 I support sustainability and environment friendly initiatives. </p>
 
 <img align="right" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width = 350px />
