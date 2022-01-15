@@ -3,8 +3,9 @@
 <p>I'm currently in my 4th year of PhD at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
 My research interests revolve around scientific studies of Consciousness, cognition, neuromodulation, sleep and psychology.  
 I love data stories, visualizations, statistics, computation, complexity and the art of teaching.  
-When I am not thinking about previous line things, I read-travel-scroll through the bird app.  
-I hate bullies and humans looking down other beings. I support sustainability and environment friendly initiatives. </p>
+When I am not thinking about previous things, I read-travel-scroll through the bird app and ponder about life in general. 
+I strongly support open source and communities which helps living and non-living entities. I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
+I support sustainability and environment friendly initiatives. </p>
 
 <img align="right" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width = 350px />
 
