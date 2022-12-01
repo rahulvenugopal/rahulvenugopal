@@ -7,7 +7,7 @@ When I am not thinking about previous things, I read-travel-scroll through the b
 I strongly support open source and communities which help living + non-living entities irrespective of human biases and prejudices.
 I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
 I seek ways to enhance deep work and human potential and productivity.
-You can find my CV <strong><a href="https://github.com/rahulvenugopal/RVG_CV/blob/main/RahulVenugopal_CV.pdf">here.</a></strong>
+</a></strong>
 Recently, I happened to publish a package in R called <strong><a href="https://rahulvenugopal.github.io/Kumbogram/">Kumbogram </a></strong></p>
 
 
