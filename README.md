@@ -3,7 +3,7 @@
 <p>I'm currently in my 5th year of PhD at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
 I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include scientific studies of Consciousness (human and machine), Real time closed loop neuromodulation, Statistical modelling of Cognition, Heart-Brain interactions, Inter brain synchrony, Dynamical systems and Chaos, Open science, Computing and Teaching. 
 
-When I am not thinking about previous things, I read-travel-scroll through the bird app and ponder about life in general. 
+When I am not thinking about previous things, I read-travel-scroll through the web and ponder about life in general. 
 I strongly support open source and communities which help living + non-living entities irrespective of human biases and prejudices.
 I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
 I seek ways to enhance deep work and human potential and productivity.
