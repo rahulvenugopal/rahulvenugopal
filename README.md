@@ -1,17 +1,11 @@
-<h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul <img src="https://rahulvenugopal.github.io/haveyoumetrahul/images/Avatar.jpg" width="25px"> </h2>
+<h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul Venugopal, a final year PhD scholar </h2>
 
-<p>I'm currently in my 5th year of PhD at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
+<p>I'm a senior research fellow at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
 I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include scientific studies of Consciousness (human and machine), Real time closed loop neuromodulation, Statistical modelling of Cognition, Heart-Brain interactions, Inter brain synchrony, Dynamical systems and Chaos, Open science, Computing and Teaching. 
 
-When I am not thinking about previous things, I read-travel-scroll through the web and ponder about life in general. 
-I strongly support open source and communities which help living + non-living entities irrespective of human biases and prejudices.
-I loved Matrix movie, Hobbits, Foundation series, Schitt's creek, Cobra kai (you get the drift).
-I seek ways to enhance deep work and human potential and productivity.
+I seek ways to enhance deep work, human potential, happiness and productivity.
 </a></strong>
 Recently, I happened to publish a package in R called <strong><a href="https://rahulvenugopal.github.io/Kumbogram/">Kumbogram </a></strong></p>
-
-
-<img align="right" src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/code.gif" width = 350px />
 
 <p>
 <a href="https://scholar.google.com/citations?user=prTMUhkAAAAJ&hl=en&oi=ao">
@@ -33,6 +27,7 @@ Recently, I happened to publish a package in R called <strong><a href="https://r
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/rahulvenugopal/&left_color=green&right_color=red)
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvenugopal&show_icons=true&locale=en" alt="rahulvenugopal" /></p>
+#### Damn, the snake is eating away my contributions in a priority order!
+![](https://github.com/rahulvenugopal/rahulvenugopal/blob/output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://metrics.lecoq.io/rahulvenugopal?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
