@@ -1,4 +1,4 @@
-<h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul Venugopal, a final year PhD scholar </h2>
+<h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul Venugopal, a final year PhD scholar in the field of Neuroscience </h2>
 
 <p>I'm a senior research fellow at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
 I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include interoception, real time closed loop protocols, Heart-Brain interactions, Inter brain synchrony, Dynamical systems and Chaos, Open science and Teaching. 
