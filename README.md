@@ -1,11 +1,11 @@
 <h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul Venugopal, a fifth year PhD scholar in Cognitive Neurosciences </h2>
 
 <p>I'm a senior research fellow at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
-I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include interoception, real time closed loop protocols, Heart-Brain interactions, Inter brain synchrony, Dynamical systems and Chaos, Open science and Teaching. 
+I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include interoception, real time closed loop protocols, Heart-Brain interactions, Dynamical systems and Chaos and Teaching. 
 
-I seek ways to enhance deep work, human potential, happiness and productivity.
+I seek ways to enhance deep work, human potential, happiness and productivity. I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
 </a></strong>
-Recently, I happened to publish a package in R called <strong><a href="https://rahulvenugopal.github.io/Kumbogram/">Kumbogram </a></strong></p>
+Recently, I happened to release a package in R called <strong><a href="https://rahulvenugopal.github.io/Kumbogram/">Kumbogram </a></strong></p>Please email if you want to contribute to the package
 
 <p>
 <a href="https://scholar.google.com/citations?user=prTMUhkAAAAJ&hl=en&oi=ao">
