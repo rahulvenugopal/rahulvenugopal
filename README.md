@@ -1,5 +1,6 @@
-<h2> Hey<img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> I am Rahul Venugopal, a fifth year PhD scholar in Cognitive Neurosciences </h2>
+<h2>  Hey  <img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> </h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Share+Tech+Mono+&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+am+Rahul+Venugopal;Senior+Research+Fellow+%26+PhD+scholar;Welcome+to+the+real+world)](https://git.io/typing-svg)
 <p>I'm a senior research fellow at <strong><a href="https://ccswebin.com/">Centre for Consciusness Studies, NIMHANS, India. </a></strong>
 I am studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include interoception, real time closed loop protocols, Heart-Brain interactions, Dynamical systems and Chaos and Teaching. 
 
