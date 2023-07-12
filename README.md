@@ -13,10 +13,10 @@ Recently, I happened to release a package in R called <strong><a href="https://r
   <img align="left" alt="Rahul's Google scholar page" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
 </a>
 <a href="https://twitter.com/rhlvenugopal">
-  <img align="left" alt="Rahul Venugopal | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Rahul Venugopal | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahul-venugopal-100b761b9/">
-  <img align="left" alt="Rahul's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahul's LinkedIN" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Rahul-Venugopal-4">
   <img align="left" alt="Rahul's RG" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />
