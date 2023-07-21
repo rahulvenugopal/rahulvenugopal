@@ -24,7 +24,6 @@ Recently, I happened to release a package in R called <strong><a href="https://r
 <a href="https://www.quora.com/profile/Rahul-Venugopal">
   <img align="left" alt="Rahul's Quora" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/1920px-Quora_logo_2015.svg.png" />
 </a>
-
 </p>
 
 #### Damn, the snake is eating away my contributions in a priority order!
