@@ -1,4 +1,4 @@
-<h2>  Hey  <img src="https://github.com/rahulvenugopal/rahulvenugopal/blob/main/wave.gif" width="25px"> </h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Share+Tech+Mono+&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+am+Rahul+Venugopal;Senior+Research+Fellow+%26+PhD+scholar;Welcome+to+the+real+world)](https://git.io/typing-svg)
 <p>I work at <strong><a href="https://ccswebin.com/">Centre for Consciousness Studies, NIMHANS, India. </a></strong>
