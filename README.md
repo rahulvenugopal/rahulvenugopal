@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Share+Tech+Mono+&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+am+Rahul+Venugopal;Senior+Research+Fellow+%26+PhD+scholar;Welcome+to+the+real+world)](https://git.io/typing-svg)
 <p>I work at <strong><a href="https://ccswebin.com/">Centre for Consciousness Studies, NIMHANS, India. </a></strong>
-I am a sixth year PhD scholar studying the neural oscillatory dynamics associated with working memory and neuromodulatory protocols (tACS) aimed at enhancing cognitive performance both in typical and atypical brains. My research interests include Working Memory, Neuromodulation, Real time closed loop protocols, Heart‑Brain interactions, Mental health, Sleep, Dreaming and Dynamical systems & Chaos. The intersection of technology, neuroscience, and mental health is a topic that I am passionate about. I seek ways to enhance deep work, human potential, happiness and productivity.
+I am awaiting my PhD thesis evaluation and meanwhile clearing the so called publication load. I am interested in interoception, brain-heart-lung interactions at a systems level and how this impacts perception, cognition and overall mental health. The intersection of technology, neuroscience, and mental health is a topic that I am passionate about. I am figuring out MY research niche IF I stay in academia. My research interests and expertise includes cognition, neuromodulation, real-time closed loop protocols, sleep hacking, heart rate variablity etc.
 
 I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
 </a></strong>
