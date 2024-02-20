@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Hope you are having a good day.</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Share+Tech+Mono+&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+am+Rahul+Venugopal;Senior+Research+Fellow+%26+PhD+scholar;Welcome+to+the+real+world)](https://git.io/typing-svg)
-<p>I work at Centre for Consciousness Studies, NIMHANS, India. I am awaiting my PhD thesis evaluation and meanwhile clearing the so called publication load. I am interested in interoception, brain-heart-lung interactions at a systems level and how this impacts perception, cognition and overall mental health. The intersection of technology, neuroscience, and mental health is a topic that I am passionate about. I am figuring out MY research niche IF I stay in academia. My research interests and expertise includes cognition, neuromodulation, real-time closed loop protocols, sleep hacking, heart rate variablity etc.
+<p>I work at Centre for Consciousness Studies, NIMHANS, India. I am awaiting my PhD thesis evaluation and meanwhile clearing the so called publication load. I am interested in interoception, brain-heart-lung interactions at a systems level and how this impacts perception, cognition and overall mental health. The intersection of technology, neuroscience, and mental health is a topic that I am passionate about. I am figuring out MY research niche IF I stay in academia. My research interests and expertise includes working memory, non-invaisve neuromodulation, real-time closed loop protocols, sleep hacking, heart rate variablity etc.
 
 I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
 </a></strong>
