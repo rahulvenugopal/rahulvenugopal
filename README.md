@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Hope you are having a good day.</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Share+Tech+Mono+&pause=1000&color=000000&background=FFFFFF&width=435&lines=I+am+Rahul+Venugopal;Senior+Research+Fellow+%26+PhD+scholar;Welcome+to+the+real+world)](https://git.io/typing-svg)
-<p>I work at Centre for Consciousness Studies, NIMHANS, India. I defended my thesis recently and I am figuring out what's next in my career (before 2024 ends, 99 more days)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74000&width=705&lines=Be+curious.+Read+widely.+Try+new+things.+;What+people+call+intelligence+just+boils+down+to+curiosity!)](https://git.io/typing-svg)
+
+<p>I work at Centre for Consciousness Studies, NIMHANS, India. I defended my thesis recently and I am figuring out what's next in my career (before 2024 ends, 90 more days)
   
 I am an engineer, neuroscientist and mental health professional holding masters in the three disciplines from top three institutes in the country. As a neuroscientist with over a decade of expertise, I specialised in the domains of cognition, neuromodulation, meditation, mind-body interactions and sleep & dreaming. I have guided teams through the conceptualisation and execution of cutting-edge brain computer interfaces, cognitive profile development, sleep stability assessments, real time neuro feedback systems and AI based models for health analytics. My expertise and passion are at the convergence of wearable technology, neuroscience, productivity, artificial intelligence and proactive solutions for physical and mental health and wellbeing. I am actively seeking opportunities to build a tribe dedicated to crafting innovative, personalised and scalable solutions in this space.
 
@@ -10,8 +11,7 @@ I had lots of fun, learnt a lot and made great friends at [BAMB2024](https://www
 Please send an email to me at rhlvenugopal@gmail.com if you want to get in touch.
 
   I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
-</a></strong>
-Recently, I happened to release a package in R called <strong><a href="https://rahulvenugopal.github.io/Kumbogram/">Kumbogram </a></strong></p>Please email if you want to contribute to the package
+
 
 <p>
 <a href="https://scholar.google.com/citations?user=prTMUhkAAAAJ&hl=en&oi=ao">
