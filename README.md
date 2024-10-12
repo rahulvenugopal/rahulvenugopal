@@ -2,16 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74000&width=705&lines=Be+curious.+Read+widely.+Try+new+things.+;What+people+call+intelligence+just+boils+down+to+curiosity!)](https://git.io/typing-svg)
 
-<p>I work at Centre for Consciousness Studies, NIMHANS, India. I defended my thesis recently and I am figuring out what's next in my career (before 2024 ends, 90 more days)
-  
-I am an engineer, neuroscientist and mental health professional holding masters in the three disciplines from top three institutes in the country. As a neuroscientist with over a decade of expertise, I specialised in the domains of cognition, neuromodulation, meditation, mind-body interactions and sleep & dreaming. I have guided teams through the conceptualisation and execution of cutting-edge brain computer interfaces, cognitive profile development, sleep stability assessments, real time neuro feedback systems and AI based models for health analytics. My expertise and passion are at the convergence of wearable technology, neuroscience, productivity, artificial intelligence and proactive solutions for physical and mental health and wellbeing. I am actively seeking opportunities to build a tribe dedicated to crafting innovative, personalised and scalable solutions in this space.
+<p>I work at Centre for Consciousness Studies, NIMHANS, India. I defended my thesis recently and I am figuring out what's next in my career (before 2024 ends, <90 days)
 
-I had lots of fun, learnt a lot and made great friends at [BAMB2024](https://www.bambschool.org/), [MESEC 2024](https://mesec.co/event/workshop_2024).
-  
-Please send an email to me at rhlvenugopal@gmail.com if you want to get in touch.
+I am a jack of all trades and had a non-linear career track. I am an `engineer` (BTech in Electronics and Communication Engineering and a masters in Medical Electronics), `neuroscientist` (MPhil and PhD) and a `mental health professional` (PG Diploma). I am a mentor and a builder at heart who loves technology, neuroscience in general and non-ordinary states of consciousness in specific. I have a decade of experience in the research areas of `working memory`, `neural oscillations`, `neuromodulation`, `meditation research`, `cardiac dynamics` and `sleep & dreaming`. I have built communities around edTech, productivity, blogging and self growth. I have taught school children, coached underprivileged people get jobs and worked as a career counsellor, placement officer and science lead for an early stage education startup. I have good amount of experience working closely with founding team of deep tech startups. My expertise and passion are at the convergence of neuroscience, productivity, team building, artificial intelligence and wearable technology. I am keen on building sustainable and scalable products/solutions for skill development and mental health plus wellbeing.
 
-  I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
+I am crafting my career in three parts. 50% in `Consciousness research`, 25% in building impactful solutions in the space of `Personal growth and skill development` and 25% I am `an explorer`. Please send an email to me at rhlvenugopal@gmail.com if you align with whatever is written above.
 
+I had lots of fun, learnt a lot and made great friends at [BAMB2024](https://www.bambschool.org/), [MESEC 2024](https://mesec.co/event/workshop_2024). I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
 
 <p>
 <a href="https://scholar.google.com/citations?user=prTMUhkAAAAJ&hl=en&oi=ao">
