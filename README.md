@@ -8,7 +8,7 @@ I am an engineer turned neuroscientist. I am a mentor and an engineer at heart w
 
 I will be building a world class team to study `Sense of Self` and  how is it modulated in a variety of neuro-psychitric conditions and non-ordinary states of Consciousness. I am picky and have strong opinions on the methods/tools used to do churn knowledge. I have shifted to an agnost from an atheist recently (primarily as a side effect of Consciousness research). I do care about the way science is done and loathe the impact factor and pseudo-prestige in academia. I believe in flat hieracrhy, open science and no subtle -isms. I am a sucker for deep work and I value mental health, relations and values. I like working with people who are self driven, with growth mindset, reflective and collaborative.
 
-If you are someone with a similar thought process or totally `orthogonal` to the above, please send an email to me at rhlvenugopal@gmail.com.
+If you are someone with a similar thought process and/or want to work with me, please send an email to me at rhlvenugopal@gmail.com.
 
 I had lots of fun, learnt a lot and made great friends at [BAMB2024](https://www.bambschool.org/), [MESEC 2024](https://mesec.co/event/workshop_2024) and [CIFAR 2024](https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school/?utm_source=twitter&utm_medium=soc&utm_campaign=winterschool22). I live online [here.](https://rahulvenugopal.github.io/haveyoumetrahul/)
 
